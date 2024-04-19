@@ -9,4 +9,4 @@ Considering using LLM to compose children's stories that help them grasp the pro
 ## Architecture
 
 Interaction diagram
-![Interaction Diagram](https://drive.google.com/file/d/1c6kiXM7vwwWt1DiBq2-uNEdBOWwBhHDS/view?usp=sharing)
+![Interaction Diagram](https://github.com/aocampor/pmc_hack_cobaltai_code/blob/d19ac6cd150f284c573554f24273b45f9c4d5689/assets/figs/princess_maxima_strory_writer.drawio.png)
