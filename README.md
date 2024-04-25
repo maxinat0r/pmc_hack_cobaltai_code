@@ -4,7 +4,9 @@ This repository contains all the information and code produced for the Prinses M
 
 ## Idea
 
-Considering using LLM to compose children's stories that help them grasp the procedures and side effects they might undergo during oncology treatment. We could also leverage Imagen to produce a picture book or speech to text. For a more personalized touch, we could even incorporate a cartoon character, perhaps the child's favorite, into the story.
+One of the problems that doctors face when they deal with families is how to communicate difficult technical or emotional information, specially if this information is directed to the children. In general, there are medical procedures that can generate anxiety or curiosity on the children. It is vital to communicate with the child to make sure the child is aware of what is about to happen and at the same time is relaxed and ready to receive the treatment. Also, having an effective communication helps the child to know what to expect after the treatment in terms of side effects.
+
+Our idea is to use LLM to compose children's stories that help them grasp the procedures and side effects they might undergo during oncology treatments. The stories will be tuned to the children age and background, considering language and children preferences. Together with the story, we want to include automatically generated pictures to illustrate the stories. 
 
 ## Architecture
 
