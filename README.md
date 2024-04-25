@@ -11,4 +11,4 @@ Our idea is to use LLM to compose children's stories that help them grasp the pr
 ## Architecture
 
 Interaction diagram
-![Interaction Diagram](https://github.com/aocampor/pmc_hack_cobaltai_code/blob/d19ac6cd150f284c573554f24273b45f9c4d5689/assets/figs/high_level_view_pmc.drawio.png)
+![Interaction Diagram](https://github.com/aocampor/pmc_hack_cobaltai_code/blob/75156805b8ea5cbe366f025bb686a5c90d8344b3/assets/figs/high_level_view_pmc.drawio.png)
