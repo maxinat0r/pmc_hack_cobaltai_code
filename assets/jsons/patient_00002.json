@@ -1,0 +1,31 @@
+{
+    "name": "Joshua",
+    "age": 15,
+    "language": "Spanish",
+    "sex": "male",
+    "interests": ["Dancing", "horse riding", "football", "Japanese anime"],
+    "symptomps": [],
+    "diagnosis": "Need a Lehman catheter to be able to administer medicine directly into the blood stream frequently",
+    "treatment": [
+        "You will need to stop eating solid food a few hours before the small surgery",
+        "you will get a wrist band that states your name and your birthday",
+        "You will go to a surgery room were we will do the procedure in a controlled environment",
+        "one of your parents will be near you when you go to sleep before the surgery",
+        "You will go to sleep with a mask or with an infusion", 
+        "The infusion is administer with a small injection, alternatively, you get a small mask that allows you to breath in the medicine to sleep",
+        "You will then fall sleep",
+        "you then will be moved into the operation table",
+        "you will get a red sensor on your hand that measures the level of oxygen in your blood during the procedure, you won't feel anything with this",
+        "you will get three patches on your chest to measure the heart rate and vital signals, you will feel nothing with those",
+        "the surgeon will insert a catheter in bewteen your skin that goes directly to your vein."
+    ],
+    "sideeffects": [
+        "You will wake up on a bed near the operation room", 
+        "The sensors for your oxygen levels and heart beat will still be on you", 
+        "The nurse will check on you constantly",
+        "The doctor will tell the nurse to take you back to the room when your ready",
+        "You might feel a bit dizzy but the feeling will go away after a while.",
+        "You will have a small tube hanging in your chest for a few weeks, it is very important that you don't take it out",
+        "We will use the catheter to give you medicine without puncturing you every time."
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Sara",
+    "age": 10,
+    "language": "Dutch",
+    "sex": "female",
+    "interests": ["pink teddy bears", "horses", "playing with ballons"],
+    "symptomps": ["bone pain", "limping", "sometimes she refuses to walk", "bruising frequently", "small red spots in the skin", "fevers that last for days with no evident cause", "infections in her mouth"],
+    "diagnosis": "Possible leukemia",
+    "treatment": "We need to do a bone marrow biopsy, the procedure consist on doing a small bone marrow puncture to extract cells to understand that blood production is going on as expected, if it isn't, it can be stablish what kind of malfunction is happening by examining the quality of the extracted cells. The procedure implies giving some anesthesia to the child, making her sleep, puncture her space in between a couple of vertebra, extract the bone marrow liquid and then finish. It is a short procedure but it is very important to confirm leukemia",
+    "sideeffects": "A bit of back scratching after the puncture."
+}

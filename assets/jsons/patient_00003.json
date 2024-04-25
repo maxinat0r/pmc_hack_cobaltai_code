@@ -1,0 +1,23 @@
+{
+    "name": "Booda",
+    "age": 5,
+    "language": "Hindi",
+    "sex": "girl",
+    "interests": ["Paw patrol", "dogs", "green dresses", "kung fu panda"],
+    "symptomps": [],
+    "diagnosis": "Need chemotherapy",
+    "treatment": [
+        "You will get different types of drugs",
+        "the chemotherapy will be administer via the lehman catheter",
+        "chemotherapy prevents cells that reproduce quickly from reproducing, cancer cells do reproduce faster than healthy cells and that is how chemotherapy works",
+        "there are some healthy cells that also reproduce fast and those ones will be affected by the treatement too"
+    ],
+    "sideeffects": [
+        "You will feel more tired than normal", 
+        "Your hair might fall", 
+        "Food will taste differently",
+        "Your mouth might get affected, you might get small injuries",
+        "The doctor will give you medicine to treat this symptomps so that you can feel better",
+        "The side effects will dissapear once the chemotherapy is stopped"
+    ]
+}
